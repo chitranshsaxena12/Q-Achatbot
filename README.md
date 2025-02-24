@@ -205,7 +205,7 @@ if __name__ == "__main__":
 
 ---
 
-### ** Summary**
+### **Summary**
 ✅ **Content ingestion** is done via web scraping.  
 ✅ **Text is split into chunks** and **stored using FAISS embeddings**.  
 ✅ **Retrieval** is performed via **semantic search** on FAISS.  
