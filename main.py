@@ -142,7 +142,7 @@ def main():
     and generate AI-based responses.
     """
     st.set_page_config("Chat with Documents")
-    st.header("Chat with Documents using Gemini💁")
+    st.header("Chat with WebContent using Gemini💁")
 
     # Sidebar for document upload
     with st.sidebar:
