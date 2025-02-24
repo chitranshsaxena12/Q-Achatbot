@@ -138,7 +138,7 @@ def main():
     """
     Main function for Streamlit application to chat with documents using Gemini AI.
 
-    Provides options to upload PDFs, fetch text from a webpage, process user queries,
+    Provides options to  fetch text from a webpage, process user queries,
     and generate AI-based responses.
     """
     st.set_page_config("Chat with Documents")
